@@ -11,7 +11,7 @@ class World:
 
         text_color = colors.ColorChanger()
         grocery_store.os.system("cls")
-        print(text_color.colorText(""" /$$      /$$           /$$                                                        
+        print(text_color.colorText("""[[green]]  /$$      /$$           /$$                                                        
 | $$  /$ | $$          | $$                                                        
 | $$ /$$$| $$  /$$$$$$ | $$  /$$$$$$$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$             
 | $$/$$ $$ $$ /$$__  $$| $$ /$$_____/ /$$__  $$| $$_  $$_  $$ /$$__  $$            
@@ -22,7 +22,7 @@ class World:
                                                                                    
                                                                                    
                                                                                    
- /$$$$$$$$ /$$$$$$                                                                 
+[[blue]]  /$$$$$$$$ /$$$$$$                                                                 
 |__  $$__//$$__  $$                                                                
    | $$  | $$  \ $$                                                                
    | $$  | $$  | $$                                                                
